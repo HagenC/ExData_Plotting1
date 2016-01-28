@@ -1,4 +1,6 @@
 
+
+
 #importing data, converting dates and subsetting
 Power_data <- read.csv("~/exdata-data-household_power_consumption/household_power_consumption.txt" 
                        , sep=";", header = TRUE, stringsAsFactors = FALSE, dec=".")
